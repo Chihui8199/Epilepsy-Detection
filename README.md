@@ -19,4 +19,4 @@ This dataset records the electroencephalogram (EEG) readings of 500 individuals,
 We would like to find out how we can best detect epilepsy. Taking our problem and looking at it from a Data science perspective, this is a classification problem, where we are classifying epilepsy cases and non-epilepsy cases. We extrapolated this problem and decided to determine the best model for detecting epilepsy using machine learning. Our metrics was based on classification accuracy and FNR. We set the FNR as an important variable because we want to minimise the number of undetected epilepsy. 
 
 
-### This project was completed as a mini-project in CZ1015 by Zachary, Wilson, Chi Hui and Sabrina
+### This project was completed as a mini-project in CZ1015 by Zachary, Wilson, Chi Hui and Sabrina. It scored the highest in that lab class :)
